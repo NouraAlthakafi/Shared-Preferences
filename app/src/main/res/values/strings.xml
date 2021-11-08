@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Share Prefrences</string>
+    <string name="preference_hobby">com.example.kotlinSharePrefrences.PREFERENCE_HOBBY</string>
+</resources>
